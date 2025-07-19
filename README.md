@@ -1,1 +1,3 @@
-# popham-farm
+# Popham Farm
+
+Specific WooCommerce modifications.

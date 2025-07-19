@@ -1,0 +1,34 @@
+selector .woocommerce-product-gallery {
+  display: none;
+}
+selector .product .summary.entry-summary {
+  width: 100%;
+}
+selector .product h1 {
+  font-family: var(--e-global-typography-primary-font-family);
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+selector .product .price {
+  font-family: var(--e-global-typography-primary-font-family);
+  font-weight: 500;
+  color: var(--e-global-color-primary);
+  margin-bottom: 1rem;
+}
+selector .product .woocommerce-product-details__short-description {
+  margin-bottom: 2rem;
+}
+selector .product .product_meta {
+  display: none;
+}
+selector .product .woocommerce-tabs.wc-tabs-wrapper .tabs.wc-tabs {
+  display: none;
+}
+selector .ui-datepicker-calendar .bookable {
+  background: red;
+}
+selector .product h2 {
+  font-family: var(--e-global-typography-primary-font-family);
+  font-size: 35px;
+}
